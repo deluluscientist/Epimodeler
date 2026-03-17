@@ -1,5 +1,7 @@
 # 🦠 Epimodeler: Multi-Model Epidemic Simulator
 
+  <img src="SIR.png" alt="banner" />
+
 Inspired by recent reports of the **Nipah Virus** in India and my previous experience using SIR and SIRD models during the **COVID-19** pandemic in 2020, I’ve built **Epimodeler**. 
 
 This project was "vibecoded" using **Google Gemini** and **Lovable** to transform mathematical theory into a functional simulation tool.
